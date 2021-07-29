@@ -107,10 +107,5 @@ struct Node* head2=new Node();
 }
 
 
-
-
-	
-	
-
 }
 
