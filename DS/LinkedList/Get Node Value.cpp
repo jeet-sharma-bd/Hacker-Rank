@@ -21,7 +21,6 @@ void display(struct Node* head, int p){
 void createNode(Node* head, int t){
 	int a;
 	cin>>a;
-		
 	head->data=a;
 	head->next=NULL;		
 		
